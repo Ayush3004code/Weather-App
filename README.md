@@ -1,2 +1,2 @@
 # Weather-App
-I have created a responsive weather app using  HTML, CSS &amp; JavaScript. 
+I have created a weather app using  HTML, CSS &amp; JavaScript. 
